@@ -28,6 +28,7 @@ img{
 
 #img1{
     height: 660px;
+    background-position: center;
 }
 
 #img2, #img3, #img4{
@@ -39,4 +40,18 @@ main div img {
   height: 375px;
   object-fit: cover; /* Ajusta a proporção da imagem para caber no container disponível pra ela sem distorcer */
   margin-top: 44px;
+}
+
+figcaption{
+    text-align: center;
+    margin-top: 24px;
+    margin-bottom: 40px;
+}
+
+.divider {
+  width: 100%;
+  height: 1px;
+  margin: 36px 0;
+  background-color: #d9d9d9;
+  margin-bottom: 64px;
 }
