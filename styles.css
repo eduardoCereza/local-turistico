@@ -7,7 +7,10 @@
 
 .conteudo{
     margin: 88px 80px;
+    margin-bottom: 137px;
     font-family: 'Open Sans', sans-serif;
+    width: 1120px;
+    height: 3054px;
 }
 
 h1{
@@ -75,7 +78,6 @@ header{
 }
 
 p{
-    text-align: justify;
     font-size: 16px;
     font-weight: regular;
 }
