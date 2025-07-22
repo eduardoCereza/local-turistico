@@ -60,6 +60,8 @@ figcaption{
   margin-bottom: 64px;
 }
 
-head{
+header{
     color: #E1624F;
+    font-size: 16px;
+    font-weight: bold;
 }
