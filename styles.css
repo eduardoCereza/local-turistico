@@ -29,6 +29,7 @@ img{
 #img1{
     height: 660px;
     background-position: center;
+    width:  1120px;
 }
 
 #img2, #img3, #img4{
@@ -46,6 +47,9 @@ figcaption{
     text-align: center;
     margin-top: 24px;
     margin-bottom: 40px;
+    font-style: italic;
+    font-size: 16px;
+
 }
 
 .divider {
