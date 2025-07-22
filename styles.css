@@ -79,3 +79,11 @@ p{
     font-size: 16px;
     font-weight: regular;
 }
+
+ul{
+    margin-left: 15px;
+}
+
+#casais, #historia, #obj{
+    font-weight: bold;
+}
