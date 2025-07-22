@@ -23,4 +23,20 @@ h2{
 
 img{
     border-radius: 28px;
+
+}
+
+#img1{
+    height: 660px;
+}
+
+#img2, #img3, #img4{
+    height: 350px;
+    width:  1120px;
+}
+
+main div img {
+  height: 375px;
+  object-fit: cover; /* Ajusta a proporção da imagem para caber no container disponível pra ela sem distorcer */
+  margin-top: 44px;
 }
